@@ -1,0 +1,13 @@
+.footerContentColumn h2 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 20px;
+    --tw-text-opacity: 1;
+    color: rgb(203 213 225 / var(--tw-text-opacity));
+  }
+  .footerContentColumn ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+  }
