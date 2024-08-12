@@ -47,5 +47,16 @@ export const AlumniData = [
       url: "",
       linkedin: "https://www.linkedin.com/in/banamita-sarma-529215195/"
     },
-    
+    {
+    name: 'Anowar Hussain Mandal',
+    role: 'Convenor',
+    subtitle: 'M.Tech, CSE, 2024 Batch',
+    affil: 'Central Institute of Technology, Kokrajhar',
+    image: {
+      src: '/assets/images/profile_image/202204021004.jpg',
+      alt: 'John Doe'
+    },
+    url: "https://sites.google.com/cit.ac.in/anowarhussain",
+    linkedin: "https://www.linkedin.com/in/anowar-hussain/"
+  },
   ];

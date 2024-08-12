@@ -13,7 +13,7 @@
       {
         title: "T-shirt Design",
         content: "Club T-shirt design has been selected. See the T-shirt page for details.",
-        url: ""
+        url: "/tshirtdesign"
       },
       
     ];

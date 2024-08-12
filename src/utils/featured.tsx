@@ -1,14 +1,14 @@
 export  const featuredData = [
     {
       "imageSrc": "/assets/images/events/mldl_bootcamp_2023/bootcampposter.png",
-      "title": "ML/DL Bootcamp 2023 ongoing.",
-      "description": "Join us for the ML/DL Bootcamp 2023.",
+      "title": "Python Programming Bootcamp 2024.",
+      "description": "Join us for the Python Programming Bootcamp 2024.",
       "link": "/events"
     },
     {
       "imageSrc": "/assets/images/misc/coreteam.PNG",
-      "title": "New Core Team 2023",
-      "description": "Check out the new core team 2023.",
+      "title": "New Core Team 2024",
+      "description": "Check out the new core team 2024.",
       "link": "/coreteam"
     },
     {

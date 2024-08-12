@@ -14,6 +14,10 @@ export const carouselImages = [
     {
         url: "/assets/images/events/hackathon_2022/AIHackathon2.jpg",
         alt: "Hackathon",
+    },
+    {
+        url: "/assets/images/events/induction_program_2024/photo1.jpg",
+        alt: "Induction 2024",
     }
     // Add more image URLs as needed
   ];
