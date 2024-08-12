@@ -6,7 +6,7 @@ export const chiefConvenorData = [
     affil: "Central Institute of Technology, Kokrajhar",
     image: {
       src: "/assets/images/profile_image/202202021050.jpg",
-      alt: "John Doe",
+      alt: "Jahnavi Roy",
     },
     url: "",
     linkedin: "https://www.linkedin.com/in/jahnavi-roy-1b5971291/",
