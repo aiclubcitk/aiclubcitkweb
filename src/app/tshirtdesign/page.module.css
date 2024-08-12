@@ -1,0 +1,39 @@
+.main{
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 5px;
+}
+.cardholder{
+    display: flex;
+
+    /* center items inside */
+    justify-content: center;
+
+
+}
+.card{
+    margin: 10px;
+    padding: 10px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px;
+    height: 20rem;
+    width: 20rem;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.headcard{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px;
+    height: 20rem;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+/* .tshirt{
+    display: flex;
+    flex-direction: row;
+}
+img{
+    width: 33%;
+} */

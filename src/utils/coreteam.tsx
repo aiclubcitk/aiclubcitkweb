@@ -140,17 +140,30 @@ export const coordinatorData = [
   //   linkedin: "https://www.linkedin.com/in/peter-basumatary-b5a74a274",
   // },
   {
+    name: "Rishiraj Bharali",
+    role: "Social Media Coordinator",
+    subtitle: "CSE, B.Tech",
+    affil: "Central Institute of Technology, Kokrajhar",
+    image: {
+      src: "/assets/images/profile_image/202202022110.jpg",
+      alt: "Rishiraj Bharali",
+    },
+    url: "",
+    linkedin: "",
+  },
+  {
     name: "Rahul Bardhan",
     role: "Research Coordinator",
     subtitle: "CSE, B.Tech",
     affil: "Central Institute of Technology, Kokrajhar",
     image: {
-      src: "",
+      src: "/assets/images/profile_image/202202021076.jpg",
       alt: "Rahul Bardhan",
     },
     url: "",
-    linkedin: "",
+    linkedin: "https://www.linkedin.com/in/rahul-bardhan-715bb726a/",
   },
+
   // {
   //   name: "Shreya Singh ",
   //   role: "Newsletter Coordinator",
