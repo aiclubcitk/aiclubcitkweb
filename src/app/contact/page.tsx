@@ -30,7 +30,7 @@ const ContactPage = () => {
             <h2 className="text-xl font-bold mb-4">Call Us</h2>
             <p className="text-gray-600 mb-4">
               If you prefer to talk to someone, please call us at <br />
-              <a href="tel:+917002942615">+91 7002942615</a>
+              <a href="tel:+918453173141">+91 8453173141</a>
             </p>
           </div>
           <div className="border p-4 rounded-lg">

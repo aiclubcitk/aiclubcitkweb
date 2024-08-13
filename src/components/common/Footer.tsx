@@ -14,7 +14,7 @@ export default function Footer(props: { footerItems: any[]; }) {
         <div className={FooterStyles.footerBottomContent}>
           <div className="text-xs text-slate-300">
           <br/>
-          +91 7002942615 | aiclub@cit.ac.in
+          +91 8453173141 | aiclub@cit.ac.in
           </div>
         </div>
       </div>
