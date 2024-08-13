@@ -2,7 +2,7 @@ export const chiefConvenorData = [
   {
     name: "Jahnavi Roy",
     role: "Chief Convenor",
-    subtitle: "M.Tech,CSE",
+    subtitle: "B.Tech,CSE",
     affil: "Central Institute of Technology, Kokrajhar",
     image: {
       src: "/assets/images/profile_image/202202021050.jpg",
@@ -48,7 +48,7 @@ export const convenorsData = [
           "alt": "Pradyot Paul"
       },
       "url": "",
-      "linkedin": "",
+      "linkedin": "https://www.linkedin.com/in/pradyot-paul-50b5ba322",
       "score": 0
   },
   //   {
@@ -89,7 +89,7 @@ export const coordinatorData = [
       alt: "SAIFUDDIN CHOUDHURY",
     },
     url: "",
-    linkedin: "",
+    linkedin: "https://www.linkedin.com/in/saifuddin-choudhury-b152bb292/",
   },
   // {
   //   name: "Soumik Dutta Choudhary",
