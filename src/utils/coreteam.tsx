@@ -41,7 +41,7 @@ export const convenorsData = [
     {
       "name": "Pradyot Paul",
       "role": "Events Convenor",
-      "subtitle": "CSE, B.Tech",
+      "subtitle": "B.Tech, CSE",
       "affil": "Central Institute of Technology, Kokrajhar",
       "image": {
           "src": "/assets/images/profile_image/202202022120.jpg",
