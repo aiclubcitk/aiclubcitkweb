@@ -1,33 +1,59 @@
-.main{
+/* Styles for the main container */
+.main {
     background-color: #f5f5f5;
     padding: 20px;
     border-radius: 5px;
     width: 100%;
 }
-.cardholder{
+
+/* Styles for the card container */
+.cardholder {
     display: flex;
-
-    /* center items inside */
-    justify-content: center;
-    
-
+    justify-content: center; /* Center items inside */
+    flex-wrap: wrap; /* Allow cards to wrap to the next line */
 }
-.card{
-    margin: 10px;
-    padding: 10px;
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 5px;
+
+/* Styles for each card */
+.card {
     margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
     height: 20rem;
     width: 20rem;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    cursor: pointer; /* Change cursor to indicate clickable item */
 }
-.headcard{
+
+/* Styles for the modal background */
+.modal-background {
+    fixed: z-10 inset-0 overflow-y-auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Styles for the modal overlay */
+.modal-overlay {
+    fixed: inset-0;
+    background-color: rgba(0,0,0,0.5);
+}
+
+/* Styles for the modal content */
+.modal-content {
     background-color: #fff;
-    padding: 20px;
     border-radius: 5px;
-    margin: 20px;
-    height: 20rem;
+    padding: 20px;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+/* Styles for the modal close button */
+.modal-close-button {
+    margin-top: 10px;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
 }
