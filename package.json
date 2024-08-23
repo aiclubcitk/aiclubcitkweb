@@ -1,8 +1,11 @@
 {
+  "homepage": "https://Bibek478.github.io/aiclubcitkweb",
   "name": "aiclub",
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "dev": "next dev",
     "build": "next build && next export",
     "start": "next start",
@@ -12,8 +15,8 @@
     "@headlessui/react": "^1.7.13",
     "@heroicons/react": "^2.0.16",
     "@next/font": "13.4.19",
-    "@types/node": "18.11.19",
-    "@types/react": "^18.0.28",
+    "@types/node": "22.3.0",
+    "@types/react": "18.3.3",
     "@types/react-dom": "18.0.10",
     "eslint": "8.33.0",
     "eslint-config-next": "13.4.19",
@@ -26,8 +29,10 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.13",
+    "gh-pages": "^6.1.1",
     "postcss": "^8.4.21",
     "tailwindcss": "^3.2.7",
-    "typescript": "^5.5.4"
-  }
+    "typescript": "5.5.4"
+  },
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }
