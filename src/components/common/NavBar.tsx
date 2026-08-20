@@ -15,7 +15,7 @@ function NavBar(props: { navItems: any[] }) {
       <div className="container flex flex-wrap items-center justify-between mx-auto">
         <a href="/" className="flex items-center">
           <img
-            src="/assets/images/logo/dark_circle.png"
+            src="/assets/images/logo/light_circle.png"
             className="h-12 mr-3 sm:h-9"
             alt="Flowbite Logo"
           />
@@ -88,14 +88,6 @@ function NavBar(props: { navItems: any[] }) {
             </li>
             <li>
               <a
-                href="/members"
-                className="block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
-              >
-                Members
-              </a>
-            </li>
-            <li>
-              <a
                 href="/alumni"
                 className="block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
               >
@@ -104,10 +96,10 @@ function NavBar(props: { navItems: any[] }) {
             </li>
             <li>
               <a
-                href="/partners"
+                href="/sponsors"
                 className="block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
               >
-                Partners
+                Sponsors
               </a>
             </li>
             <li>
